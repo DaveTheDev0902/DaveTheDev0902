@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @davejoni.dev
+- 👋 Hi, I’m @davidjonidev
 - 🌱 I’m currently learning Angular, Svelte, Laravel, React
