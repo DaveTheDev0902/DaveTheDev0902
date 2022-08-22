@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @davejoni.dev
+- 🌱 I’m currently learning Angular, Svelte, Laravel, React
